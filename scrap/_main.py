@@ -4,7 +4,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
 
-def scrape_tweets(username):
+def scrape_tweets(username, amount=10):
     all_the_tweets = []  # Una lista para almacenar todos los tweets de una página
     driver = webdriver.Chrome()  # Requiere tener instalado el driver de Chrome
     driver.get(f"https://twitter.com/{username}")
@@ -12,7 +12,7 @@ def scrape_tweets(username):
     time.sleep(sleep_time)  # Espera unos segundos para que se carguen los tweets
 
     # Repetir el proceso hasta que tenga 100 tweets
-    while len(all_the_tweets) < 10:
+    while len(all_the_tweets) < amount:
         # Desplazarse hacia abajo para cargar más tweets (opcional)
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(sleep_time)  # Espera adicional para cargar más tweets si es necesario
@@ -50,6 +50,6 @@ def scrape_tweets(username):
         print("No se encontró el contenedor de tweets.")
 
 # Ejemplo de uso
-scrape_tweets("elonmusk")
-scrape_tweets("LinusTech")
-scrape_tweets("illojuan")
+scrape_tweets("elonmusk", 100)
+scrape_tweets("LinusTech", 100)
+scrape_tweets("illojuan", 100)
