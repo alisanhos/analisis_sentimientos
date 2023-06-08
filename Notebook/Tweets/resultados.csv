@@ -1,79 +1,79 @@
-﻿text,tag
-respond go,0.0
-sooo sad miss san diego,-0.5
-boss bulli,0.0
-interview leav alon,0.0
-son put releas alreadi bought,0.0
-shameless plug best ranger forum earth,1.0
-2am feed babi fun smile coo,0.3
-soooo high,0.16
-,0.0
-journey wow u becam cooler hehe possibl,0.1
-much love hope reckon chanc minim p never gon na get cake stuff,0.5
-realli realli like song love stori taylor swift,0.5
-sharpi run danger low ink,0.0
-want go music tonight lost voic,0.0
-test test lg env2,0.0
-uh oh sunburn,0.0
-ok tri plot altern speak sigh,0.5
-sick past day thus hair look wierd didnt hat would look,-0.48214285714285715
-back home gon na miss everi one,0.0
-hes,0.0
-oh mar sorri hope find soon 3 3,0.0
-play ghost onlin realli interest new updat kirin pet metamorph third job wait dragon pet,0.06818181818181818
-clean hous famili com later today,0.18333333333333335
-got ta restart comput thought win7 suppos put end constant rebooti,0.0
-see wat mean bout foll0w friiday call lose f0llower friday smh,-0.3125
-free fillin app ipod fun im addict,0.35
-sorri,0.0
-way malaysiano internet access twit,0.0
-juss came backk berkeleyi omg madd fun havent minut whassqoodd,0.3
-went sleep power cut noida power back work,0.0
-go home seen new twitter design quiteheaven,0.13636363636363635
-hope unni make audit fight dahy unni,0.0
-consol got bmi test hahaha say obes well much unhappi 10 minut,0.2
-funni cute kid,0.5
-ahhh slept game gon na tri best watch tomorrow though hope play armi,0.3
-that end tear fear vs eric prydz dj hero,0.0
-born rais nyc live texa past 10 year still miss ny,-0.05681818181818182
-case wonder realli busi today come ad ton new blog updat stay tune,0.13636363636363635
-soooooo sleeeeepi last day school todaysniffl,0.0
-littl happi wine jeje ok sm free time care jaja love day,0.4666666666666666
-car happi big big dent boot hope theyr go write cross finger wait,0.0
-im avid fan magazin love magazin,0.375
-mayday,0.0
-ratt rock nashvill toniteon thing suck encor like 80 still fun show pearci hott bad boy look,-0.19999999999999993
-love avail 5pm dear would love help convert vidsï¿½,0.5
-girl hair salon ask shall trim eyebrow ' old feel,0.1
-egh blah boooooooooooo dunno wan na go work hangov suckkkkkk im drunk mess,-0.2916666666666667
-visit friendster facebook,0.0
-donbt like peel prawn also dont like go shop run money crawl round car look,-0.2
-case got new one last week thrill mine,0.06818181818181818
-check connect tweepl hate twitter,-0.8
-also bore school third freelesson freistund,0.0
-hm us guess,0.0
-u dissappoint past day,-0.25
-romanc zero funni,0.0
-rather earli runbut morn runner,0.0
-bah cowork ran work late bag smack knee realli hurt,-0.3
-back later,0.0
-aw torn ace heart,0.0
-fun speak,0.3
-lost friend alon sleepyi wan na go home,-0.2
-haha yes,0.2
-give easili,0.0
-better way spoil mum let kick back relax nice meal bottl favorit wine wine red,0.275
-mannnn _ got iphon im jealous,0.0
-photoshoot,0.0
-awesom work good friend,0.7
-yay play show tonight boo gon na soggi work right play,0.2857142857142857
-chilliin,0.0
-know agent let know,0.0
-still smell smoke,0.0
-celticslak rematch sound better think lol,0.5666666666666668
-anyon extra kean ticket promis buy drink take rad pic fb blog flickr etc,0.0
-you ride one catch one summer til pop open one ',0.0
-good gorjuz yea kno ask yesterday tha hospit talk u said,0.7
-ok pop say hi check thing probabl head guttah later tonight,0.25
-wow realli missin famili today baddd,0.1
-sourc say,0.0
+text,tag,sentiment
+respond go,0.0,neutro
+sooo sad miss san diego,-0.5,molesto
+boss bulli,0.0,neutro
+interview leav alon,0.0,neutro
+son put releas alreadi bought,0.0,neutro
+shameless plug best ranger forum earth,1.0,muy feliz
+2am feed babi fun smile coo,0.3,contento
+soooo high,0.16,contento
+,0.0,neutro
+journey wow u becam cooler hehe possibl,0.1,contento
+much love hope reckon chanc minim p never gon na get cake stuff,0.5,contento
+realli realli like song love stori taylor swift,0.5,contento
+sharpi run danger low ink,0.0,neutro
+want go music tonight lost voic,0.0,neutro
+test test lg env2,0.0,neutro
+uh oh sunburn,0.0,neutro
+ok tri plot altern speak sigh,0.5,contento
+sick past day thus hair look wierd didnt hat would look,-0.4821428571428571,molesto
+back home gon na miss everi one,0.0,neutro
+hes,0.0,neutro
+oh mar sorri hope find soon 3 3,0.0,neutro
+play ghost onlin realli interest new updat kirin pet metamorph third job wait dragon pet,0.0681818181818181,contento
+clean hous famili com later today,0.1833333333333333,contento
+got ta restart comput thought win7 suppos put end constant rebooti,0.0,neutro
+see wat mean bout foll0w friiday call lose f0llower friday smh,-0.3125,molesto
+free fillin app ipod fun im addict,0.35,contento
+sorri,0.0,neutro
+way malaysiano internet access twit,0.0,neutro
+juss came backk berkeleyi omg madd fun havent minut whassqoodd,0.3,contento
+went sleep power cut noida power back work,0.0,neutro
+go home seen new twitter design quiteheaven,0.1363636363636363,contento
+hope unni make audit fight dahy unni,0.0,neutro
+consol got bmi test hahaha say obes well much unhappi 10 minut,0.2,contento
+funni cute kid,0.5,contento
+ahhh slept game gon na tri best watch tomorrow though hope play armi,0.3,contento
+that end tear fear vs eric prydz dj hero,0.0,neutro
+born rais nyc live texa past 10 year still miss ny,-0.0568181818181818,molesto
+case wonder realli busi today come ad ton new blog updat stay tune,0.1363636363636363,contento
+soooooo sleeeeepi last day school todaysniffl,0.0,neutro
+littl happi wine jeje ok sm free time care jaja love day,0.4666666666666666,contento
+car happi big big dent boot hope theyr go write cross finger wait,0.0,neutro
+im avid fan magazin love magazin,0.375,contento
+mayday,0.0,neutro
+ratt rock nashvill toniteon thing suck encor like 80 still fun show pearci hott bad boy look,-0.1999999999999999,molesto
+love avail 5pm dear would love help convert vidsï¿½,0.5,contento
+girl hair salon ask shall trim eyebrow ' old feel,0.1,contento
+egh blah boooooooooooo dunno wan na go work hangov suckkkkkk im drunk mess,-0.2916666666666667,molesto
+visit friendster facebook,0.0,neutro
+donbt like peel prawn also dont like go shop run money crawl round car look,-0.2,molesto
+case got new one last week thrill mine,0.0681818181818181,contento
+check connect tweepl hate twitter,-0.8,hater
+also bore school third freelesson freistund,0.0,neutro
+hm us guess,0.0,neutro
+u dissappoint past day,-0.25,molesto
+romanc zero funni,0.0,neutro
+rather earli runbut morn runner,0.0,neutro
+bah cowork ran work late bag smack knee realli hurt,-0.3,molesto
+back later,0.0,neutro
+aw torn ace heart,0.0,neutro
+fun speak,0.3,contento
+lost friend alon sleepyi wan na go home,-0.2,molesto
+haha yes,0.2,contento
+give easili,0.0,neutro
+better way spoil mum let kick back relax nice meal bottl favorit wine wine red,0.275,contento
+mannnn _ got iphon im jealous,0.0,neutro
+photoshoot,0.0,neutro
+awesom work good friend,0.7,muy feliz
+yay play show tonight boo gon na soggi work right play,0.2857142857142857,contento
+chilliin,0.0,neutro
+know agent let know,0.0,neutro
+still smell smoke,0.0,neutro
+celticslak rematch sound better think lol,0.5666666666666668,muy feliz
+anyon extra kean ticket promis buy drink take rad pic fb blog flickr etc,0.0,neutro
+you ride one catch one summer til pop open one ',0.0,neutro
+good gorjuz yea kno ask yesterday tha hospit talk u said,0.7,muy feliz
+ok pop say hi check thing probabl head guttah later tonight,0.25,contento
+wow realli missin famili today baddd,0.1,contento
+sourc say,0.0,neutro
